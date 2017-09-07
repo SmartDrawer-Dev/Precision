@@ -1,0 +1,13 @@
+C:\Users\pchar\Documents\Projects\Precision\Test\bin\Debug\Test.exe.config
+C:\Users\pchar\Documents\Projects\Precision\Test\bin\Debug\Test.exe
+C:\Users\pchar\Documents\Projects\Precision\Test\bin\Debug\Test.pdb
+C:\Users\pchar\Documents\Projects\Precision\Test\bin\Debug\nunit.framework.dll
+C:\Users\pchar\Documents\Projects\Precision\Test\bin\Debug\Precision.dll
+C:\Users\pchar\Documents\Projects\Precision\Test\bin\Debug\Precision.pdb
+C:\Users\pchar\Documents\Projects\Precision\Test\bin\Debug\nunit.framework.xml
+C:\Users\pchar\Documents\Projects\Precision\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\pchar\Documents\Projects\Precision\Test\obj\Debug\Test.exe
+C:\Users\pchar\Documents\Projects\Precision\Test\obj\Debug\Test.pdb
+C:\Users\pchar\Documents\Projects\Precision\Test\bin\Debug\Calculator.exe
+C:\Users\pchar\Documents\Projects\Precision\Test\bin\Debug\Calculator.pdb
+C:\Users\pchar\Documents\Projects\Precision\Test\bin\Debug\Calculator.exe.config

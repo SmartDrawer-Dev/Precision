@@ -1,0 +1,5 @@
+C:\Users\pchar\Documents\Projects\Precision\Precision\bin\Debug\Precision.dll
+C:\Users\pchar\Documents\Projects\Precision\Precision\bin\Debug\Precision.pdb
+C:\Users\pchar\Documents\Projects\Precision\Precision\obj\Debug\Precision.csprojResolveAssemblyReference.cache
+C:\Users\pchar\Documents\Projects\Precision\Precision\obj\Debug\Precision.dll
+C:\Users\pchar\Documents\Projects\Precision\Precision\obj\Debug\Precision.pdb
