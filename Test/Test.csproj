@@ -45,6 +45,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Functionality\FunctionalityTests.cs" />
+    <Compile Include="Performance\SpeedTests.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -53,18 +55,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Calculator\Calculator.csproj">
-      <Project>{17d54b03-5558-4b1f-aad7-a28ef604ced5}</Project>
-      <Name>Calculator</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Precision\Precision.csproj">
       <Project>{5207b234-58c3-4a0d-886d-0a7e96b1e617}</Project>
       <Name>Precision</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Functionality\" />
-    <Folder Include="Performance\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

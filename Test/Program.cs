@@ -1,10 +1,12 @@
 ﻿using System;
+using NUnit.Framework;
 
 namespace Test
 {
-    class Program
+    [TestFixture]
+    public class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("hello");
             Console.ReadKey();
